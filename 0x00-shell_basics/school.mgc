@@ -1,2 +1,2 @@
-0 string HOLEBORTON Holeborton data
-!:mime Holeborton
+0 string SCHOOL School data
+file -m school.mgc grades.txt
